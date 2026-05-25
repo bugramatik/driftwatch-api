@@ -1,0 +1,6 @@
+{
+  "projectName": "driftwatch-api-client",
+  "moduleName": "FlaskRESTplusServerExample",
+  "projectLicenseName": "MIT",
+  "usePromises": true
+}
